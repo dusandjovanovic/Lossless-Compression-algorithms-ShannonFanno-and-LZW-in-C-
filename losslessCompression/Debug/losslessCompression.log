@@ -1,0 +1,8 @@
+﻿  losslessCompression.cpp
+c:\users\dusan jovanovic\documents\visual studio 2017\projects\losslesscompression\losslesscompression\shannonfano.h(12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\dusan jovanovic\documents\visual studio 2017\projects\losslesscompression\losslesscompression\lzw.h(10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\dusan jovanovic\documents\visual studio 2017\projects\losslesscompression\losslesscompression\losslesscompression.cpp(25): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\dusan jovanovic\documents\visual studio 2017\projects\losslesscompression\losslesscompression\lzw.h(17): warning C4715: 'searchMap': not all control paths return a value
+  losslessCompression.vcxproj -> C:\Users\Dusan Jovanovic\documents\visual studio 2017\Projects\losslessCompression\Debug\losslessCompression.exe
+  losslessCompression.vcxproj -> C:\Users\Dusan Jovanovic\documents\visual studio 2017\Projects\losslessCompression\Debug\losslessCompression.pdb (Partial PDB)
